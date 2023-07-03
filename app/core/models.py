@@ -1,8 +1,7 @@
-from django.db import models  # noqa
 """
 Database models.
 """
-from django.db import models
+from django.db import models  # noqa
 from django.contrib.auth.models import (
     AbstractBaseUser,
     BaseUserManager,
